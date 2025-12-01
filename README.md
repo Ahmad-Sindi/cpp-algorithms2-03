@@ -2,7 +2,7 @@
 -
 🧮 Problem Description
 This algorithm reads a positive number and checks whether it is a **Perfect Number**.  
-A Perfect Number is a number that equals the sum of all its proper divisors.  
+A Perfect Number is a number that equals the sum of all its proper divisors. 
 Example: 28 → 1 + 2 + 4 + 7 + 14 = 28
 
 This exercise reinforces skills in loops, condition checking, and function structuring in C++.
